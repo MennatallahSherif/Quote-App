@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+.container .head{
+    font-size: 100px;
+    font-weight: 200;
+   
+}
+
+.container .info{
+    font-weight: 200;
+    font-size: 25px;
+}
+
+@media (max-width:819px) {
+    .container .head{
+        font-size: 50px;
+        font-weight: 200;
+        color: black;
+    }
+    
+}
+
